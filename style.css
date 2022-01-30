@@ -1,0 +1,11 @@
+#myCanvas
+{
+   border: width 10px;
+   background-color: rgb(255, 250, 245); 
+   border-style: dashed;
+}
+
+h1{
+   color:red;
+   font-size:50px;
+}
